@@ -1,4 +1,4 @@
-# EASAR Project
+# Keyword Based ASR
 
 Repo for implementation of keyword-based ASR system
 
