@@ -1,0 +1,28 @@
+# install those with CUDA support
+# torch
+# torchaudio
+# eg. Windows 10, CUDA 11.8
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+sentencepiece 
+mediapipe 
+opencv-python 
+scikit-image
+ipykernel
+datasets
+soundfile
+librosa
+playsound
+spela
+black
+black[jupyter]
+pydub
+simpleaudio
+ffmpeg-python
+tensorflow
+tensorflow-io
+torchaudio
+mlflow
+Cython
+nemo_toolkit['all']
+nbformat
+plotly
